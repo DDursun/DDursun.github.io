@@ -36,16 +36,11 @@ My work sits where three worlds meet. I'm a **reservoir engineer** by training, 
 research — and I like to build at the overlap: physics-informed deep learning, latent-space
 methods for subsurface flow, and tools that turn messy field data into decisions.
 
-<!-- =====================  VENN DIAGRAM PLACEHOLDER  ===================== -->
-<!-- Reserved space for the "Reservoir Engineering × Computer Science × Machine Learning" -->
-<!-- Venn diagram. Drop the final graphic in assets/img/venn.svg (or .png) and replace -->
-<!-- this block with an {% include figure.liquid %} / <img> tag. -->
+{% comment %} Reserved space for the Venn diagram. Drop the final graphic in
+assets/img/ and replace this placeholder with an image tag. {% endcomment %}
 <div class="venn-placeholder" style="margin:2rem auto;max-width:520px;border:2px dashed var(--global-divider-color,#cfcfcf);border-radius:14px;padding:2.25rem 1.25rem;text-align:center;color:var(--global-text-color-light,#828282);">
-  <div style="font-size:2.2rem;line-height:1;margin-bottom:.6rem;">🛢️ 💻 🤖</div>
-  <strong style="display:block;font-size:1.05rem;color:var(--global-text-color,#000);margin-bottom:.35rem;">Venn diagram coming soon</strong>
-  <span style="font-size:.9rem;">Reservoir&nbsp;Engineering&nbsp;·&nbsp;Computer&nbsp;Science&nbsp;·&nbsp;Machine&nbsp;Learning</span>
+  <strong style="display:block;font-size:1.05rem;color:var(--global-text-color,#000);">Venn diagram coming soon</strong>
 </div>
-<!-- ===================================================================== -->
 
 Currently developing **Physics-Informed Neural Networks (PINNs)** and **GANs** to model
 subsurface flow by enforcing physical consistency inside deep learning architectures.
