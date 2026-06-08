@@ -31,6 +31,10 @@ latest_posts:
   .post h2::first-letter { text-transform: uppercase; }
 </style>
 
+<div style="text-align:center;border:1px dashed var(--global-theme-color);border-radius:8px;padding:.5rem .9rem;margin-bottom:1.5rem;color:var(--global-theme-color);font-size:.9rem;letter-spacing:.03em;">
+  Website under construction
+</div>
+
 Hi, I'm **Dursun** — a PhD researcher in Petroleum Engineering at the
 [University of Texas at Austin](https://www.utexas.edu/), where I work with the
 [DIRECT Consortium](https://github.com/GeostatsGuy) on bridging **subsurface data** and
