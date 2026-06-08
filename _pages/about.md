@@ -2,9 +2,7 @@
 layout: about
 title: Home
 permalink: /
-nav: true
-nav_order: 1
-subtitle: <strong>PhD researcher</strong> · The University of Texas at Austin · Reservoir Engineering × Computer Science × Machine Learning
+subtitle: <strong>PhD researcher</strong> · The University of Texas at Austin
 
 profile:
   align: right
