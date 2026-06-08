@@ -26,6 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+  /* al-folio renders the "selected publications" heading lowercase; capitalize its first letter */
+  #content h2::first-letter,
+  .post h2::first-letter { text-transform: uppercase; }
+</style>
+
 Hi, I'm **Dursun** — a PhD researcher in Petroleum Engineering at the
 [University of Texas at Austin](https://www.utexas.edu/), where I work with the
 [DIRECT Consortium](https://github.com/GeostatsGuy) on bridging **subsurface data** and
