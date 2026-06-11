@@ -7,9 +7,9 @@ subtitle: <strong>PhD researcher</strong> · The University of Texas at Austin
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # rectangular image
   more_info: >
-    <p style="font-size:.8rem;color:var(--global-text-color-light,#828282);">Picture taken at UT Energy AI Hackathon</p>
+    <p style="font-family:'Roboto',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:.72rem;line-height:1.35;color:var(--global-text-color-light,#828282);">Picture taken at UT Energy AI Hackathon, 2026</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,11 +28,30 @@ latest_posts:
 <style>
   /* al-folio renders the "selected publications" heading lowercase; capitalize its first letter */
   #content h2::first-letter,
-  .post h2::first-letter { text-transform: uppercase; }
+  .post h2::first-letter {
+    text-transform: uppercase;
+  }
+
+  /* Profile photo: black version by default, swap to color instantly on hover.
+     Black is the <img> (prof_pic.jpg); color sits behind as the figure background
+     (prof_pic_color.jpg) and shows the moment the img is hidden. */
+  .profile figure {
+    margin: 0;
+    border-radius: 4px;
+    background-image: url("{{ '/assets/img/prof_pic_color.jpg' | relative_url }}");
+    background-size: cover;
+    background-position: center;
+  }
+  .profile img {
+    border-radius: 4px;
+  }
+  .profile:hover img {
+    opacity: 0;
+  }
 </style>
 
-<div style="text-align:center;border:1px dashed var(--global-theme-color);border-radius:8px;padding:.5rem .9rem;margin-bottom:1.5rem;color:var(--global-theme-color);font-size:.9rem;letter-spacing:.03em;">
-  Website under construction
+<div style="text-align:center;margin-bottom:1.5rem;">
+  <span style="display:inline-block;border:1px solid var(--global-theme-color);border-radius:999px;padding:.25rem 0.9rem;color:var(--global-theme-color);font-size:.75rem;letter-spacing:.04em;text-transform:uppercase;">Website under construction</span>
 </div>
 
 Hi, I'm **Dursun** — a PhD researcher in Petroleum Engineering at the
@@ -44,13 +63,6 @@ My work sits where three worlds meet. I'm a **reservoir engineer** by training, 
 **software engineer** by craft, and a **machine learning / statistics** practitioner by
 research — and I like to build at the overlap: physics-informed deep learning, latent-space
 methods for subsurface flow, and tools that turn messy field data into decisions.
-
-{% comment %} Reserved space for the Venn diagram. Drop the final graphic in
-assets/img/ and replace this placeholder with an image tag. {% endcomment %}
-
-<div class="venn-placeholder" style="margin:2rem auto;max-width:520px;border:2px dashed var(--global-divider-color,#cfcfcf);border-radius:14px;padding:2.25rem 1.25rem;text-align:center;color:var(--global-text-color-light,#828282);">
-  <strong style="display:block;font-size:1.05rem;color:var(--global-text-color,#000);">Venn diagram coming soon</strong>
-</div>
 
 Currently developing **Physics-Informed Neural Networks (PINNs)** and **GANs** to model
 subsurface flow by enforcing physical consistency inside deep learning architectures.
