@@ -47,6 +47,7 @@ methods for subsurface flow, and tools that turn messy field data into decisions
 
 {% comment %} Reserved space for the Venn diagram. Drop the final graphic in
 assets/img/ and replace this placeholder with an image tag. {% endcomment %}
+
 <div class="venn-placeholder" style="margin:2rem auto;max-width:520px;border:2px dashed var(--global-divider-color,#cfcfcf);border-radius:14px;padding:2.25rem 1.25rem;text-align:center;color:var(--global-text-color-light,#828282);">
   <strong style="display:block;font-size:1.05rem;color:var(--global-text-color,#000);">Venn diagram coming soon</strong>
 </div>

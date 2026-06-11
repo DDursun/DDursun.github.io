@@ -16,25 +16,26 @@ three came together.
 
 ## Education
 
-**The University of Texas at Austin** — *Austin, TX, USA*
+**The University of Texas at Austin** — _Austin, TX, USA_
 PhD, Petroleum Engineering · Aug. 2025 – Present
 Coursework: Subsurface ML · HPC for Engineers · Advanced Petrophysics
 
-**George Washington University** — *Washington, D.C., USA*
+**George Washington University** — _Washington, D.C., USA_
 MSc, Computer Science · GPA 3.9 · Aug. 2023 – May 2025
 Coursework: Artificial Intelligence · Cloud Computing · Design & Analysis of Algorithms
-Thesis: *Regression on Interatomic Descriptor Data — Direct Solution Strategies for Linear
-Regression in CPU- and Memory-Constrained Environments.*
+Thesis: _Regression on Interatomic Descriptor Data — Direct Solution Strategies for Linear
+Regression in CPU- and Memory-Constrained Environments._
 
-**Baku Higher Oil School** — *Baku, Azerbaijan*
+**Baku Higher Oil School** — _Baku, Azerbaijan_
 BSc, Petroleum Engineering · GPA 3.4 · Sep. 2018 – June 2023
 Coursework: Geoscience · Formation Evaluation · Reservoir Flow Simulation
-Thesis: *Well Placement and Control Optimization with Numerical Optimization Algorithms.*
+Thesis: _Well Placement and Control Optimization with Numerical Optimization Algorithms._
 
 ## Experience
 
 ### DIRECT Consortium at UT Austin — Graduate Research Assistant
-*Aug. 2025 – Present*
+
+_Aug. 2025 – Present_
 
 - Bridging subsurface data and artificial intelligence to develop data-driven solutions for
   reservoir modeling and management, under the supervision of **Prof. Michael Pyrcz** (PGE)
@@ -43,7 +44,8 @@ Thesis: *Well Placement and Control Optimization with Numerical Optimization Alg
   flow by enforcing physical consistency within deep learning architectures.
 
 ### BP — Reservoir Engineer / Data Analyst
-*Baku, Azerbaijan · Sep. 2023 – Aug. 2025*
+
+_Baku, Azerbaijan · Sep. 2023 – Aug. 2025_
 
 - Analyzed extensive surveillance data from the biggest oil field in the region.
 - Saved **~300 man-hours per year** through Python and SQL automation.
@@ -59,14 +61,16 @@ Thesis: *Well Placement and Control Optimization with Numerical Optimization Alg
 - Served as an **ambassador for Generative AI adoption** across engineering workflows.
 
 ### BP — Reservoir Engineer Intern
-*Baku, Azerbaijan · June 2022 – Feb. 2023*
+
+_Baku, Azerbaijan · June 2022 – Feb. 2023_
 
 - Analyzed tracer data to assess sweep efficiency, informing drilling decisions valued at **\$4M**.
 - Estimated surfactant-flood opportunities for a mature brownfield, identifying chemical-EOR
   recovery potential.
 
 ### ei-Link Research and Development Center — Research Assistant
-*Baku, Azerbaijan · Mar. 2021 – June 2022*
+
+_Baku, Azerbaijan · Mar. 2021 – June 2022_
 
 - Conducted a comprehensive literature review of expert systems and pattern-recognition algorithms.
 - Architected and developed the backend for a reservoir-engineering web toolkit with
