@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 nav: true
 nav_order: 2
-description: A reservoir engineer, software engineer, and machine learning researcher — and the path that connects them.
+description: Geoscience, computer science, and statistics — and the path that connects them.
 toc:
   sidebar: left
 ---
 
 I describe myself through three lenses that I deliberately keep in tension:
-**reservoir engineering**, **computer science / software engineering**, and
-**machine learning / statistics**. The story below is really the story of how those
-three came together.
+**geoscience**, **computer science**, and **statistics**. The story below is really the
+story of how those three came together.
 
 ## Education
 

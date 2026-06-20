@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Loan Default Prediction with ML — 🥇 1st Place
+title: Loan Default Prediction with ML — 1st Place
 description: Winning entry at the ABB Innovation Center ML BootCamp.
 importance: 4
 category: work
@@ -11,5 +11,6 @@ github:
 details: >
   Part of the ABB Innovation Center Machine Learning BootCamp. Predicted the probability of
   bank customers defaulting on loans using advanced gradient-boosting and ensemble techniques,
-  with careful feature engineering and model evaluation — securing 1st place in the competition.
+  with careful feature engineering and model evaluation —
+  <a href="https://www.kaggle.com/c/iba-ml2-mid-project/leaderboard" target="_blank" rel="noopener">securing 1st place in the competition</a>.
 ---
