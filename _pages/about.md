@@ -54,20 +54,23 @@ latest_posts:
   <span style="display:inline-block;border:1px solid var(--global-theme-color);border-radius:999px;padding:.25rem 0.9rem;color:var(--global-theme-color);font-size:.75rem;letter-spacing:.04em;text-transform:uppercase;">Website under construction</span>
 </div>
 
-Hi, I'm **Dursun** — a PhD researcher in Petroleum Engineering at the
-[University of Texas at Austin](https://www.utexas.edu/), where I work with the
-[DIRECT Consortium](https://github.com/GeostatsGuy) on bridging **subsurface data** and
+Hi, I'm **Dursun** — a PhD researcher at the
+[University of Texas at Austin](https://www.utexas.edu/), where I work as part of the
+[DIRECT Consortium](https://direct.pge.utexas.edu/) on bridging **subsurface data** and
 **artificial intelligence** to build data-driven solutions for reservoir modeling and management.
 
-My work sits where three worlds meet. I'm a **reservoir engineer** by training, a
-**software engineer** by craft, and a **machine learning / statistics** practitioner by
-research — and I like to build at the overlap: physics-informed deep learning, latent-space
-methods for subsurface flow, and tools that turn messy field data into decisions.
+My work sits where three worlds meet. I'm a **geoscientist** by training, a
+**computer scientist** by craft, and a **statistician** by research — and I like to build at
+the overlap: physics-informed deep learning, latent-space methods for subsurface flow, and
+tools that turn messy field data into decisions.
 
-Currently developing **Physics-Informed Neural Networks (PINNs)** and **GANs** to model
-subsurface flow by enforcing physical consistency inside deep learning architectures.
+Currently working on **geostatistics** and **generative adversarial networks (GANs)** for
+**inverse modeling and history matching** of the subsurface.
 Before UT Austin, I spent two years as a **Reservoir Engineer / Data Analyst at BP** and
 earned an MSc in Computer Science at **George Washington University**.
+
+Outside research activities, I enjoy weightlifting, watching movies from different cultures,
+and currently having fun learning the drums.
 
 Take a look at my [research](/research/), [projects](/projects/), and
 [teaching](/teaching/) — or [get in touch](/contact/).
