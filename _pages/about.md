@@ -50,10 +50,6 @@ latest_posts:
   }
 </style>
 
-<div style="text-align:center;margin-bottom:1.5rem;">
-  <span style="display:inline-block;border:1px solid var(--global-theme-color);border-radius:999px;padding:.25rem 0.9rem;color:var(--global-theme-color);font-size:.75rem;letter-spacing:.04em;text-transform:uppercase;">Website under construction</span>
-</div>
-
 Hi, I'm **Dursun** — a PhD researcher at the
 [University of Texas at Austin](https://www.utexas.edu/), where I work as part of the
 [DIRECT Consortium](https://direct.pge.utexas.edu/) on bridging **subsurface data** and
