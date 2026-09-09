@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <strong>PhD researcher</strong> · The University of Texas at Austin
+subtitle: <strong>PhD researcher</strong> building machine learning and computational methods for subsurface systems.
 
 profile:
   align: right
@@ -50,10 +50,13 @@ latest_posts:
   }
 </style>
 
-Hi, I'm **Dursun** — a PhD researcher at the
-[University of Texas at Austin](https://www.utexas.edu/), where I work as part of the
-[DIRECT Consortium](https://direct.pge.utexas.edu/) on bridging **subsurface data** and
-**artificial intelligence** to build data-driven solutions for reservoir modeling and management.
+Howdy, I'm **Dursun** — a PhD researcher at the
+[University of Texas at Austin](https://www.utexas.edu/), under the supervision of
+[Dr. Michael Pyrcz](https://michaelpyrcz.com/) and
+[Dr. John T. Foster](https://johnfoster.pge.utexas.edu/).
+I work as part of the [DIRECT Consortium](https://direct.pge.utexas.edu/) on bridging
+**subsurface data** and **artificial intelligence** to build data-driven solutions for
+reservoir modeling and management.
 
 My work sits where three worlds meet. I'm a **geoscientist** by training, a
 **computer scientist** by craft, and a **statistician** by research — and I like to build at

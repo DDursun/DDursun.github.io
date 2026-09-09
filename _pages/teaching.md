@@ -47,9 +47,9 @@ along with recommended readings, below.
 <div class="teaching-item" style="border:1px solid var(--global-divider-color,#e0e0e0);border-radius:12px;padding:1.25rem 1.5rem;margin:1.5rem 0;">
   <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.5rem;align-items:baseline;">
     <h3 style="margin:0;">Machine Learning Instructor</h3>
-    <span style="color:var(--global-text-color-light,#828282);font-size:.9rem;">Feb. 2023 – Present</span>
+    <span style="color:var(--global-text-color-light,#828282);font-size:.9rem;">Feb. 2023 – Apr. 2026</span>
   </div>
-  <p style="margin:.4rem 0 0;color:var(--global-text-color-light,#828282);">BHOS SPE Student Chapter &amp; Youth Organization (non-profit)</p>
+  <p style="margin:.4rem 0 0;color:var(--global-text-color-light,#828282);">BHOS SPE and SEG Student Chapters (non-profit)</p>
   <p style="margin:.7rem 0 0;">Lecturing on statistics, feature engineering, and machine learning algorithms with hands-on coding and derivations.</p>
 
   <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:1.25rem;">

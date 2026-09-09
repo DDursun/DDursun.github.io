@@ -42,21 +42,33 @@ _Aug. 2025 – Present_
 - Developing **Physics-Informed Neural Networks (PINNs)** and **GANs** to model subsurface
   flow by enforcing physical consistency within deep learning architectures.
 
+### Elk Range Royalties — Software Engineer Intern
+
+_Dallas, TX · May 2026 – Aug. 2026_
+
+- Built a scheduled **Django** reporting pipeline that reconciles monthly revenue against the
+  reserve reports across tens of millions of rows and delivers a summary message and Excel file
+  straight into Microsoft Teams.
+- Designed and shipped an **agentic LLM workflow** that converts written property descriptions into
+  mapped boundaries. Ownership in oil and gas is recorded as text rather than coordinates, so an
+  analyst normally reads each description and draws the shape by hand — minutes per parcel, with no
+  two people drawing quite the same thing. The system extracts the location details with an LLM,
+  looks them up against a national survey grid, and cuts out the exact described piece, returning
+  map-ready geometry in about three seconds and producing a consistent dataset instead of
+  hand-drawn shapes.
+
 ### BP — Reservoir Engineer / Data Analyst
 
 _Baku, Azerbaijan · Sep. 2023 – Aug. 2025_
 
-- Analyzed extensive surveillance data from the biggest oil field in the region.
-- Saved **~300 man-hours per year** through Python and SQL automation.
-- Integrated GAP and Python to analyze the impact of pressure differentials on the vertical
-  allocation of fluids, improving production-system modeling accuracy.
-- Built a statistical Python tool to post-process ensemble output and run Monte Carlo
-  simulations for production profiles, with sensitivity controls for project timing and well
-  delivery schedules.
-- Post-processed reservoir simulation outputs on HPC servers for automated sensitivity
-  analysis and well-communication interpretation.
-- Mentored an intern building an ML model that corrects relative-permeability predictions in
-  three-phase flow.
+- Modeled subsurface and production-system scenarios in the **Petex suite** to plan and rank well
+  targets, integrating GAP with Python to quantify how pressure differentials drive vertical fluid
+  allocation.
+- Built a statistical Python tool on **HPC servers** to post-process ensemble simulation output and
+  run Monte Carlo simulations on production profiles, with controls for project and well delivery
+  schedules — **reducing sensitivity analysis from days to minutes**.
+- Mentored an intern developing an ML model to correct three-phase relative permeability
+  predictions using a **log-to-PTA scaling factor**.
 - Served as an **ambassador for Generative AI adoption** across engineering workflows.
 
 ### BP — Reservoir Engineer Intern
@@ -82,15 +94,16 @@ _Baku, Azerbaijan · Mar. 2021 – June 2022_
   achievement and research potential.
 - **Government Scholarship** for a dual-degree MSc in Computer Science and Data Analytics at GW.
 - **"Play to Win 2024"** award at BP for innovative, efficiency-adding projects.
-- Graduated **with honors** from the ABB Innovation Center Machine Learning traineeship.
+- Graduated **with honors** from the ABB Innovation Center Machine Learning traineeship,
+  finishing **1st place** in the final competition.
 - **Government Scholarship** for academic achievement, 2019–2023.
 - Ranked in the **top 3%** of Azerbaijani university entrants by admission-exam score.
 
 ## Skills
 
 - **Languages:** Python · C# · R · Julia · SQL · Bash
-- **Frameworks:** TensorFlow · PyTorch · Scikit-learn · OpenCV · Django
-- **Tools & Platforms:** Eclipse · OPM · IPM Suite · Spotfire · Power BI · Docker · Git
+- **Frameworks:** TensorFlow · PyTorch · Scikit-learn · OpenCV · Django · Dask · openpyxl
+- **Tools & Platforms:** Eclipse · OPM · IPM Suite · ResFrac · Spotfire · Power BI · Docker · Git
 - **Domain:** Reservoir simulation · Formation evaluation · Petrophysics · HPC
 - **Soft skills:** Active listening · decision-making · teamwork · agility
 
