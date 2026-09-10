@@ -46,6 +46,16 @@ along with recommended readings, below.
 
 <div class="teaching-item" style="border:1px solid var(--global-divider-color,#e0e0e0);border-radius:12px;padding:1.25rem 1.5rem;margin:1.5rem 0;">
   <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.5rem;align-items:baseline;">
+    <h3 style="margin:0;">Teaching Assistant</h3>
+    <span style="color:var(--global-text-color-light,#828282);font-size:.9rem;">Aug. 2026 – Present</span>
+  </div>
+  <p style="margin:.4rem 0 0;color:var(--global-text-color-light,#828282);">The University of Texas at Austin</p>
+  <p style="margin:.6rem 0 0;">Facilitating office hours for <strong>Reservoir Engineering (PGE 323M)</strong>, guiding
+  students through commercial simulator projects and coding challenges.</p>
+</div>
+
+<div class="teaching-item" style="border:1px solid var(--global-divider-color,#e0e0e0);border-radius:12px;padding:1.25rem 1.5rem;margin:1.5rem 0;">
+  <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.5rem;align-items:baseline;">
     <h3 style="margin:0;">Machine Learning Instructor</h3>
     <span style="color:var(--global-text-color-light,#828282);font-size:.9rem;">Feb. 2023 – Apr. 2026</span>
   </div>
