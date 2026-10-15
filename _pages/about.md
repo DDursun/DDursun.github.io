@@ -63,10 +63,11 @@ My work sits where three worlds meet. I'm a **geoscientist** by training, a
 the overlap: physics-informed deep learning, latent-space methods for subsurface flow, and
 tools that turn messy field data into decisions.
 
-Currently working on **geostatistics** and **generative adversarial networks (GANs)** for
+Currently working on **geostatistics** and **generative AI models** for
 **inverse modeling and history matching** of the subsurface.
-Before UT Austin, I spent two years as a **Reservoir Engineer / Data Analyst at BP** and
-earned an MSc in Computer Science at **George Washington University**.
+Before UT Austin, I spent two years at **BP**, focusing on applications of **machine learning**
+to reservoir management and well planning, and earned an MSc in Computer Science at
+**George Washington University**.
 
 Outside research activities, I enjoy weightlifting, watching movies from different cultures,
 and currently having fun learning the drums.

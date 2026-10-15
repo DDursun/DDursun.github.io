@@ -39,7 +39,7 @@ _Aug. 2025 – Present_
 - Bridging subsurface data and artificial intelligence to develop data-driven solutions for
   reservoir modeling and management, under the supervision of **Prof. Michael Pyrcz** (PGE)
   and **Prof. John Foster** (Oden Institute).
-- Developing **Physics-Informed Neural Networks (PINNs)** and **GANs** to model subsurface
+- Developing **Physics-Informed Neural Networks (PINNs)** and **generative AI models** to model subsurface
   flow by enforcing physical consistency within deep learning architectures.
 
 ### Elk Range Royalties — Software Engineer Intern
@@ -57,7 +57,7 @@ _Dallas, TX · May 2026 – Aug. 2026_
   map-ready geometry in about three seconds and producing a consistent dataset instead of
   hand-drawn shapes.
 
-### BP — Reservoir Engineer / Data Analyst
+### BP — Reservoir Engineer (Data Scientist)
 
 _Baku, Azerbaijan · Sep. 2023 – Aug. 2025_
 
