@@ -8,6 +8,8 @@ nav_order: 6
 
 I’m always happy to talk about energy, subsurface modeling and machine learning, or collaborations/opportunities.
 
+Best way to reach me is email:
+
 <style>
   .contact-wrap {
     display: flex;
@@ -39,10 +41,15 @@ I’m always happy to talk about energy, subsurface modeling and machine learnin
     color: var(--global-theme-color);
   }
   /* The globe sizes itself to its parent's width (100-400px), so this width sets its size. */
+  .contact-globe-area {
+    flex: 1 1 240px;
+    display: flex;
+    justify-content: center;
+  }
   .contact-globe {
     position: relative;
-    flex: 0 0 190px;
-    width: 190px;
+    flex: 0 0 230px;
+    width: 230px;
   }
   /* Transparent overlay: sends every click on the globe to the stats page, whatever link the widget sets. */
   .contact-globe .globe-link {
@@ -60,16 +67,15 @@ I’m always happy to talk about energy, subsurface modeling and machine learnin
       <span><strong>Email</strong> — dursun.dashdamirov@utexas.edu</span>
     </a>
 
+    <a href="https://www.linkedin.com/in/dursun-dashdamirov/" target="_blank" rel="noopener">
+      <i class="fa-brands fa-linkedin"></i>
+      <span><strong>LinkedIn</strong> — linkedin.com/in/dursun-dashdamirov</span>
+    </a>
+
     <a href="https://github.com/DDursun" target="_blank" rel="noopener">
       <i class="fa-brands fa-github"></i>
       <span><strong>GitHub</strong> — github.com/DDursun</span>
     </a>
-
-    <!-- TODO: add LinkedIn once you confirm the vanity URL
-    <a href="https://www.linkedin.com/in/USERNAME" target="_blank" rel="noopener">
-      <i class="fa-brands fa-linkedin"></i> <span><strong>LinkedIn</strong></span>
-    </a>
-    -->
 
     <div>
       <i class="fa-solid fa-location-dot"></i>
@@ -83,9 +89,11 @@ I’m always happy to talk about energy, subsurface modeling and machine learnin
 
   </div>
 
+  <div class="contact-globe-area">
   <div class="contact-globe">
     <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=dKvkZCx43U3VSWbYsaH_Cc8zemvXyDNJ1ilUiwXIqrA"></script>
     <a class="globe-link" href="https://mapmyvisitors.com/web/1c8vk" target="_blank" rel="noopener" title="View visitor statistics" aria-label="View visitor statistics"></a>
+  </div>
   </div>
 
 </div>
