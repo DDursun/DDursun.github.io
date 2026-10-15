@@ -39,3 +39,62 @@ or collaborations and opportunities. **Email is the fastest way to reach me.**
   </a>
 
 </div>
+
+## Visitors
+
+A live map and globe of where visits to this site come from, provided by
+[MapMyVisitors](https://mapmyvisitors.com/web/1c8vk).
+
+<style>
+  .visitor-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.25rem;
+    margin: 1.25rem 0 0;
+  }
+  .visitor-card {
+    border: 1px solid var(--global-divider-color, #e0e0e0);
+    border-radius: 14px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  .visitor-card figcaption {
+    padding: 0.7rem 1rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.03em;
+    color: var(--global-text-color-light, #828282);
+    border-bottom: 1px solid var(--global-divider-color, #e0e0e0);
+  }
+  /* The widgets render on a white background, so the stage stays white in dark mode too */
+  .visitor-stage {
+    background: #fff;
+    flex: 1;
+    min-height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+  }
+  .visitor-stage > * {
+    max-width: 100%;
+  }
+</style>
+
+<div class="visitor-grid">
+
+  <figure class="visitor-card" style="margin:0;">
+    <figcaption>Visitor map</figcaption>
+    <div class="visitor-stage">
+      <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=hzlTQMIgHBuq9mg9iCcOj4Nm-XrgYftTXc8YOgMVfl0&cl=ffffff&w=a"></script>
+    </div>
+  </figure>
+
+  <figure class="visitor-card" style="margin:0;">
+    <figcaption>Visitor globe</figcaption>
+    <div class="visitor-stage">
+      <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=dKvkZCx43U3VSWbYsaH_Cc8zemvXyDNJ1ilUiwXIqrA"></script>
+    </div>
+  </figure>
+
+</div>
